@@ -1,0 +1,5 @@
+Providing all agricultural-related features in one app, including bank farmer loan facility information and an agricultural business platform
+With the help of experts, we can implement and develop these features in one app.
+"Agriculture technologies have demonstrated the ability to improve agricultural management." This awareness has attracted researchers to develop technologies for farmers to ease their daily routine, reduce the cost of labor, and increase yield production.
+A smartphone is one of the gadgets that can be useful in agriculture because of its useful functions, portability, and affordability. It helps farmers find government facilities and schemes, access information, monitor the crops, and predict crops.
+Smartphone functions can be combined to build versatile mobile agriculture applications and web applications. These help deliver information about crops and management needs. This paper develops an Android application for smart farming in crop management known as Agriculture One Solution (AOS).

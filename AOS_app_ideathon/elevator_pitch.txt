@@ -1,0 +1,4 @@
+The Agriculture One Solution (AOS) App presents multiple features where you can find all the solutions related to agriculture, bank loans and offer information, and government schemes for farmers.
+This awareness has prompted researchers to create technologies for farmers to help them with their daily tasks while also lowering labour costs and increasing yield production.
+A smartphone is one of the gadgets that can be useful in agriculture because of its useful functions, portability, and affordability. It helps farmers find government facilities and schemes, access information, monitor the crops, and predict crops.
+Smartphone functions can be combined to build versatile mobile agriculture applications and web applications. These help deliver information about crops and management needs.
