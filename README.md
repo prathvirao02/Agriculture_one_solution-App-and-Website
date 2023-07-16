@@ -1,4 +1,4 @@
-# Agriculture_one_solution-App-and-Website
+# Agriculture_one_solution_App_and_Website_Idea
 Agriculture One Solution (AOS) App: A Comprehensive Agricultural Companion
 
 Description:
