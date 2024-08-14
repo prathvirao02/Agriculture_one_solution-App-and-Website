@@ -1,6 +1,6 @@
 # Agriculture One Solution (AOS) App and Website Idea
-A Comprehensive Agricultural Companion
-Won SECOND place in NATIONAL LEVEL IDEATHON held at SMVITM, Udupi for this Idea.
+- A Comprehensive Agricultural Companion
+- Won SECOND place in NATIONAL LEVEL IDEATHON held at SMVITM, Udupi for this Idea.
 
 ### Description:
 ###### Agriculture One Solution (AOS) is an innovative concept for a mobile application designed to revolutionize the farming industry. This GitHub repository showcases the idea and features of AOS, a comprehensive agricultural companion that aims to simplify farming operations, increase productivity, and provide valuable resources for farmers.
